@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.vasadinesh.site
+USER_HOST: user.vasadinesh.site
+CART_HOST: cart.vasadinesh.site
+SHIPPING_HOST: shipping.vasadinesh.site
+PAYMENT_HOST: payment.vasadinesh.site
